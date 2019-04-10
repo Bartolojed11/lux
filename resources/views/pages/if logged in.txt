@@ -1,0 +1,28 @@
+                
+
+<!-- <li class="nav-item">
+                        <a class="nav-link" href="#">&nbsp;Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">&nbsp;Blog</a>
+                    </li> -->
+
+<!-- <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="material-icons" style="font-size:16px">shopping_cart</i>&nbsp;Cart</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="material-icons" style="font-size:16px">notifications</i>&nbsp;Notifications</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+                            Settings
+                        </a>
+                        <div class="dropdown-menu shadow-sm">
+                            <a class="dropdown-item" href="#">Log Out</a>
+                            <a class="dropdown-item" href="#"></a>
+                            <a class="dropdown-item" href="#"></a>
+                        </div>
+                    </li>
+
+                </ul> -->
